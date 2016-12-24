@@ -1,0 +1,24 @@
+1)A- Sun
+  B- Static
+  C- main
+  D- public
+
+2)D- class
+
+3)B- O desenvolvimento da Internet.
+
+4)Não há  a necessidade de conhecer o dispostivo que 
+se executa o codigo
+
+5)A- Pode ser executada em qualquer computador, independentemente de existir uma máquina virtual
+Java instalada
+
+6)C- Digitação, compilação e execução.
+
+7)Kotlin
+
+8)****
+
+9) Criar um .class para  execução do codigo compilado
+
+10)D- É um kit de ferramentas e serve para o desenvolvimento completo de aplicações em Java
